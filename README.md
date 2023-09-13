@@ -1,6 +1,6 @@
-##Project1
-<h1> ECommerce project </h1>
-#welcome
+<h1>Project1</h1>
+<h2> ECommerce project </h2>
+
 <img src="e-commerce-website-.png" >
 
 
