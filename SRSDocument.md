@@ -19,7 +19,15 @@ System Requirement Specification Document
 <h3>Security:</h3>
 
 <h3>Reliability</h3>
+<h3>Portablility:</h3>
+<h3>Accessibility:</h3>
+<h3>Durability:</h3>
 
 <h3>Availability</h3>
+uptime: 24* 7 available 99.999%
+
+<h3>Maintainability:</h3>
+<h3>Efficiency:</h3>
+<h3>Modularity:</h3>
 
 
