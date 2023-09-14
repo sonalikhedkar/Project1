@@ -31,6 +31,13 @@ System Reqruiement Spefication for CDAC online exam poratl
 </ul>
 <br>
 <h4>Student Aspect</h4>
+<ul>
+ <li>Requesting registration</li>
+ <li>Logging into the system</li>
+ <li>Selecting the questing</li>
+ <li>Appearing for the examination</li>
+ <li>Reviewing the given response</li>
+</ul>
 
 
 
