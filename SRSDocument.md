@@ -55,7 +55,7 @@ uptime: 24* 7 available 99.999%
 
 <h3>Maintainability:</h3>
 <h3>Efficiency:</h3>
-on Exam day, maximum number of users will able to give exam concurrently .System will manage all exam registration and candidate exam time limit control by the system. System will be able to manage all transactions with isolation.
+on Exam day, maximum number of users will able to give exam concurrently .System will manage all exam registration and candidate exam time limit control by the system.
 <h3>Modularity:</h3>
 
 <h3>safety</h3>
