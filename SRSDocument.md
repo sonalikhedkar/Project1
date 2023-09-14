@@ -8,7 +8,7 @@ System Requirement Specification Document
 System Reqruiement Spefication for CDAC online exam poratl
 
 <h2>Team</h2>
-
+ Adminstrator, Students, Teachers, Staff, Head of Exam center, Technical Supporter,invigilator. 
 <h2>Objective (Purpose):</h2>
 
 <h2>Scope:</h2>
@@ -16,6 +16,22 @@ System Reqruiement Spefication for CDAC online exam poratl
 <h2>Definitions:</h2>
 
 <h2>Functional Requirements:</h2>
+<h4>Administrator Aspect</h4>
+<ul>
+  <li>Logging into the system</li>
+  <li>Accepting registration of candidates</li>
+  <li>Adding/editing/deleting the question</li>
+  <li>Creating questions</li>
+  <li>Posting Questions</li>
+  <li>Posting multiple option to respective question</li>
+  <li>Giving correct answer</li>
+  <li>time limit</li>
+  <li>Set Marks</li>
+  <li>Negative Marking</li>
+</ul>
+<br>
+<h4>Student Aspect</h4>
+
 
 
 <h2>NonFunctional Requirement:</h2>
