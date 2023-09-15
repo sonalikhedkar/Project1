@@ -18,7 +18,7 @@ For students we have digital notepad option on Screen aling with rough pages.
 Students can access review tab,clear tab, next along with sumbit tab.
 Extra Desktop facility and power backup supply will provided for student while any technical issue.
 
-
+ 
 
 <h2>Definitions:</h2>
 CDAC:Centre of Development of Advanced Computing
