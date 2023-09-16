@@ -40,7 +40,7 @@
  <li>checking result</li>
  </ul>
  
- <h2> module 2:Student</h2>
+ 
  <h3> Datatypes in student-></h3>
  <ul>
  <li>student name</li>
