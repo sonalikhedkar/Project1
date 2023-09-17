@@ -34,13 +34,13 @@ VPN:Virtual Private Network
 <li>Before start of exam student should click on instruction button along with retry button for incorrect input.after reading instruction details check box will be tick marked by candidate</li>
 <li>At sharp time student provided start the test button and student directly on the page of Question set</li>
 <li>Questions have negative system along with four options for each questions.</li>
-<li> During exam assesment screen wont be minimised or split<li>
-<li>There is timer for each question along with whole timer of the paper will be shown<li>
-<li> During solving question, question should be cleared, marked and and next button  fuctions available.<li>
-<li>At the end of assesment submit button available.<li>
-<li>At the end of exam feedback form should be given and submitted<li>
-<li>At the time of result day software is full of free from loading or buffering<li>
-</ul>
+<li> During exam assesment screen wont be minimised or split</li>
+<li>There is timer for each question along with whole timer of the paper will be shown</li>
+<li> During solving question, question should be cleared, marked and and next button  fuctions available.</li>
+<li>At the end of assesment submit button available.</li>
+<li>At the end of exam feedback form should be given and submitted</li>
+<li>At the time of result day software is full of free from loading or buffering</li>
+
 
 <h4>Administrator Aspect</h4>
 <ul>
