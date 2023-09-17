@@ -70,8 +70,16 @@ Physical keyboard should be disable at the time of examination.
 
 
 <h3>Reliability</h3>
+<li>Powerbackup should be avaliable when power cut.</li>
+<li>Site should not be crashed due to overload so the database should be huge and maintain properly.</li>
+
+<li>Application should be stable.</li>
+<li>To give an exam, on a browser ip address should be provided to the students without internet connection</li>
+
+
 
 <h3>Portablility:</h3>
+<>
 
 <h3>Accessibility:</h3>
 
@@ -81,6 +89,9 @@ Physical keyboard should be disable at the time of examination.
 uptime: 24* 7 available 99.999%
 
 <h3>Maintainability:</h3>
+<li> Data base should be huge for examination system</li>
+<li>Data should be store on cloud rather than on-premises.</li>
+
 
 <h3>Efficiency:</h3>
 on Exam day, maximum number of users will able to give exam concurrently .System will manage all exam registration and candidate exam time limit control by the system.
