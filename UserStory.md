@@ -38,6 +38,7 @@
 <h3> user stories for coordinators in online assesment porttal-></h3>
 
 <ul>
+ <li>As a coordinator, I want to authenticate myself the as coordinator.</li>
 <li>As a coordinator, I want to oversee the overall exam scheduling and coordination process.</li>
 <li>As a coordinator, I want to allocate exam venues and seating arrangements for students.</li>
 <li>As a coordinator, I want to communicate with faculty and staff to ensure a smooth exam administration process.</li>
