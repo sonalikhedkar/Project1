@@ -72,18 +72,30 @@ Physical keyboard should be disable at the time of examination.
 <h3>Reliability</h3>
 <li>Powerbackup should be avaliable when power cut.</li>
 <li>Site should not be crashed due to overload so the database should be huge and maintain properly.</li>
-
 <li>Application should be stable.</li>
 <li>To give an exam, on a browser ip address should be provided to the students without internet connection</li>
 
 
 
 <h3>Portablility:</h3>
-<>
+<li>The application should be run on any device whether it is windows,IOS,Redhat,ubuntu.</li>
+<li>The application should also run on the android & IOS devices.</li>
+<li>The application should be run on any browsers.</li>
+
+
 
 <h3>Accessibility:</h3>
+<li>Only admin have all the access of appliactions like schedule exam, can see all candidate marks, set time for exam, download pdf of marks, making changes in schedule,can see all the faculty members</li> 
+<li>Students have only userName & Password to Attempt an exam</li>
+
 
 <h3>Durability:</h3>
+
+<li>In case of power cut while attempting an exam, have an backup & data should be stored so the
+candidate cant loose their attempted answers.</li>
+<li>Because of huge cloud database and security application will not be crashed.</li>
+
+
 
 <h3>Availability</h3>
 uptime: 24* 7 available 99.999%
@@ -94,10 +106,18 @@ uptime: 24* 7 available 99.999%
 
 
 <h3>Efficiency:</h3>
-on Exam day, maximum number of users will able to give exam concurrently .System will manage all exam registration and candidate exam time limit control by the system.
+<li>on Exam day, maximum number of users will able to give exam concurrently .System will manage all exam registration and candidate exam time limit control by the system admin.</li>
+<li>Application should show same answer what candidate click while giving an exam.</li>
+<li>Application should be efficient enough to meet all kinds of requirements as required by the
+lecturers and students.</li>
+<li>The application should not hang or lose its efficiency in any kind of
+worse conditions.</li>
 
 <h3>Modularity:</h3>
+<li>Application will contain mainly three modules i.e. Admin Module,Faculty Module,Candidate Module.Inside admin module there will be different sub-modules like schedule exam,faculty member list,download response sheet of all candidate.Inside faculty module there will be allocated exam hall number. Inside candidate module there will be scheduled exam, result. </li>
 
 <h3>safety</h3>
+<li>To avoid security and safety breach candidate need to login with username and
+password before they access the system. So the server check in the database username & password. Only registered candidate can access the system.</li> 
 
 
