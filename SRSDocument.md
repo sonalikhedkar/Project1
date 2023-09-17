@@ -34,7 +34,13 @@ VPN:Virtual Private Network
 <li>Before start of exam student should click on instruction button along with retry button for incorrect input.after reading instruction details check box will be tick marked by candidate</li>
 <li>At sharp time student provided start the test button and student directly on the page of Question set</li>
 <li>Questions have negative system along with four options for each questions.</li>
-</ul>
+<li> During exam assesment screen wont be minimised or split</li>
+<li>There is timer for each question along with whole timer of the paper will be shown</li>
+<li> During solving question, question should be cleared, marked and and next button  fuctions available.</li>
+<li>At the end of assesment submit button available.</li>
+<li>At the end of exam feedback form should be given and submitted</li>
+<li>At the time of result day software is full of free from loading or buffering</li>
+
 
 <h4>Administrator Aspect</h4>
 <ul>
@@ -72,18 +78,30 @@ Physical keyboard should be disable at the time of examination.
 <h3>Reliability</h3>
 <li>Powerbackup should be avaliable when power cut.</li>
 <li>Site should not be crashed due to overload so the database should be huge and maintain properly.</li>
-
 <li>Application should be stable.</li>
 <li>To give an exam, on a browser ip address should be provided to the students without internet connection</li>
 
 
 
 <h3>Portablility:</h3>
-<>
+<li>The application should be run on any device whether it is windows,IOS,Redhat,ubuntu.</li>
+<li>The application should also run on the android & IOS devices.</li>
+<li>The application should be run on any browsers.</li>
+
+
 
 <h3>Accessibility:</h3>
+<li>Only admin have all the access of appliactions like schedule exam, can see all candidate marks, set time for exam, download pdf of marks, making changes in schedule,can see all the faculty members</li> 
+<li>Students have only userName & Password to Attempt an exam</li>
+
 
 <h3>Durability:</h3>
+<li>assesment software should not be hang during exam along with malware protection<li>
+<li>In case of power cut while attempting an exam, have an backup & data should be stored so the
+candidate cant loose their attempted answers.</li>
+<li>Because of huge cloud database and security application will not be crashed.</li>
+
+
 
 <h3>Availability</h3>
 uptime: 24* 7 available 99.999%
@@ -94,10 +112,18 @@ uptime: 24* 7 available 99.999%
 
 
 <h3>Efficiency:</h3>
-on Exam day, maximum number of users will able to give exam concurrently .System will manage all exam registration and candidate exam time limit control by the system.
+<li>on Exam day, maximum number of users will able to give exam concurrently .System will manage all exam registration and candidate exam time limit control by the system admin.</li>
+<li>Application should show same answer what candidate click while giving an exam.</li>
+<li>Application should be efficient enough to meet all kinds of requirements as required by the
+lecturers and students.</li>
+<li>The application should not hang or lose its efficiency in any kind of
+worse conditions.</li>
 
 <h3>Modularity:</h3>
+<li>Application will contain mainly three modules i.e. Admin Module,Faculty Module,Candidate Module.Inside admin module there will be different sub-modules like schedule exam,faculty member list,download response sheet of all candidate.Inside faculty module there will be allocated exam hall number. Inside candidate module there will be scheduled exam, result. </li>
 
 <h3>safety</h3>
+<li>To avoid security and safety breach candidate need to login with username and
+password before they access the system. So the server check in the database username & password. Only registered candidate can access the system.</li> 
 
 
