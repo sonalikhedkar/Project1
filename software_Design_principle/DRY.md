@@ -17,6 +17,7 @@ Here is a pseudocode that receives two temperatures in Fahrenheit and converts t
 
 Now here is the same program after applying DRY:
 
+
 ![image](https://github.com/sonalikhedkar/Project1/assets/110111616/4ff382c9-cf19-45a0-83e8-469898065139)
 
 
