@@ -18,3 +18,4 @@ Now here is the same program after applying DRY:
 ![image](https://github.com/sonalikhedkar/Project1/assets/110111616/4ff382c9-cf19-45a0-83e8-469898065139)
 
 We can see that, after applying DRY, the logic that converts Fahrenheit to Celsius appears only once in our code.
+
