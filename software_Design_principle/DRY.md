@@ -14,3 +14,7 @@ Here is a pseudocode that receives two temperatures in Fahrenheit and converts t
 
 ![image](https://github.com/sonalikhedkar/Project1/assets/110111616/46ec181b-ec73-459a-b0ff-195c59bc3e13)
 
+Now here is the same program after applying DRY:
+![image](https://github.com/sonalikhedkar/Project1/assets/110111616/4ff382c9-cf19-45a0-83e8-469898065139)
+
+We can see that, after applying DRY, the logic that converts Fahrenheit to Celsius appears only once in our code.
