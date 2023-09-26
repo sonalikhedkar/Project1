@@ -1,4 +1,4 @@
-<h2> module 1:Adminstrator</h2>
+ <h2> module 1:Adminstrator......</h2>
 <h3> Functions in admin-></h3>
  <ul>
 
