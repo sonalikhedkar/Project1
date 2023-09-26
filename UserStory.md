@@ -3,7 +3,7 @@
 <h3> User Stories for Admin in Online assesment portal-></h3>
 
 <ul>
-<li>As an Admin , I need to authenticate myself, so that I can see my account details .
+<li>As an Admin , I need to authenticate myself, so that I can see my account details.. .
 </li>
 <li>As a admin , I  able to informed to all update related  of the exam shedule ,so that i need function to send all the mail  to candidates, so that candidates able to understand process.
 </li>
